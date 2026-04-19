@@ -1,7 +1,6 @@
 name = "douyin-extractor"
 main = "worker.js"
 compatibility_date = "2024-01-01"
-nodejs_compat = true
 
 [observability]
 enabled = false
